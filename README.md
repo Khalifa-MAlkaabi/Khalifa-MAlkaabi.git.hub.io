@@ -12,4 +12,6 @@ Examples of how to use the project.
 
 ## Authors 
 
-Khalifa Mohammed Alkaabi - Henry Julio
+Khalifa Mohammed Alkaabi 
+
+Henry Julio
