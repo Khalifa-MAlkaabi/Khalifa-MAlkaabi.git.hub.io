@@ -14,4 +14,3 @@ Examples of how to use the project.
 
 Khalifa Mohammed Alkaabi 
 
-Henry Julio
